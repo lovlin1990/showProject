@@ -53,3 +53,36 @@
 ![pic1](https://github.com/lovlin1990/showProject/blob/master/vue%2Bvuxui/vux1.jpg)
 
 ![pic1](https://github.com/lovlin1990/showProject/blob/master/vue%2Bvuxui/vux2.jpg)
+
+
+## app端
+
+### 如银app
+> weex
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/weex/weex-1.png)
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/weex/weex-flight.jpg)
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/weex/weex-hotel1.jpg)
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/weex/weex-hotel2.jpg)
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/weex/weex-hotel3.jpg)
+
+
+
+
+## 小程序
+
+### 计算器
+> 小程序
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/xcx/xcx-j.jpg)
+
+
+### 连连看小游戏
+> 小程序
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/xcx/xcx-x.jpg)
+
