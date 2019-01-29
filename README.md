@@ -30,7 +30,23 @@
 
 ### 特资网平台
 > jQuery + css
-> 访问网站：https://npachina.cn/
+### 访问网站：https://npachina.cn/
 
 ![pic1](https://github.com/lovlin1990/showProject/blob/master/jQuery%2Bcss/tzw-index.png)
 
+
+
+### 特资网平台
+> jQuery + css
+### 访问网站：https://npachina.cn/
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/jQuery%2Bcss/tzw-index.png)
+
+
+
+### 特资网移动端
+> vue + mintUI
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/vue%2BmintUI/wx-1.jpg)
+
+![pic1](https://github.com/lovlin1990/showProject/blob/master/vue%2BmintUI/wx-2.jpg)
